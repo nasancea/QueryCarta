@@ -1,0 +1,4 @@
+use OPERACIONES;
+update [dcs].[tbl_parametros] 
+set vlr_parametro = 'eyJpdiI6IkowMmxTRFFrQlJkVkZHQ2ZXLy9VV1E9PSIsInZhbHVlIjoiVWJVa1RDeExQWTlCTTRJS1NpR29HTzFXZnF2TmE5T2grbjg2SG5SdVhzYXlHT3Y3SWNsaEJhbmtLTEUzNmwxNyIsIm1hYyI6IjFhM2UxNjJkMTI4OTlkNjEwZDRkNjI2Y2VmMDQ2NjA3YjlkN2E2MTYyMjkyM2Y0OTM2ODk2OTI3ZGQzM2M4ODAifQ=='
+where dsc_parametro = 'UrlCarta' and nmb_agrupacion_4 = 'MAIL'
